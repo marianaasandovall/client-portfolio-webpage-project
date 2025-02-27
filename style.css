@@ -1,0 +1,202 @@
+body {
+    background-color: #b8c0ff;
+}
+
+h1 {
+    background-color: #8093f1;
+    color: #1a2fba;
+    text-align: center;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.btns {
+    background-color: #8093f1;
+    color: #809bce;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 15px;
+}
+
+.main-btns {
+    padding: 25px;
+    background-color: #736ced;
+}
+
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #8093f1;
+}
+
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: black;
+}
+
+.abt-me {
+       display: flex;
+       justify-content: center;
+}
+
+.abt-me-txt {
+    color: #0b132b;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    border: 4px solid #4361ee;
+    border-radius: 10px;
+    font: Verdana sans-serif;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+h2 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.emily-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border: 4px solid #4361ee;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}  
+
+.recipe-pg {
+    display: block;
+    width: auto;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid #0b132b;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+
+
+.weather-pg {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: 10px solid #00377e;
+    border-radius: 10px;
+    
+}
+
+.restaurant-landing-pg {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: 10px solid #00377e;
+    border-radius: 10px; 
+} 
+
+.contact-input {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    background-color: #af99ff;
+    padding-bottom: 20px;
+    margin: 50px;
+    border-radius: 10px;
+    border: 4px solid #4361ee;
+}
+
+.input-msg {
+    border: #6e78ff;
+    padding: 10px;
+    border: #6e78ff;
+    border-radius: 10px;
+    border: 2px solid #9381ff
+}
+
+
+.submit-btn {
+    padding : 10px 10px 10px 10px;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    border: #5d7bd5
+}
+
+.connect {
+    background-color: #957fef;
+}
+
+.project-txt {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.project-pages {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.weather-pages {
+    display: flex;
+    border: 10px solid #0b132b;
+    border-radius: 10px;
+
+}
+
+.restraunt-pages {
+    display: flex;
+    border: 10px solid #0b132b;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
